@@ -1,5 +1,6 @@
-
-google.com, pub-6750980629137695, DIRECT, f08c47fec0942fa0
+google.com, pub-6153238141267530, DIRECT, f08c47fec0942fa0
+google.com, pub-5195115056404269, DIRECT, f08c47fec0942fa0
+google.com, pub-5744811277659768, RESELLER
 startapp.com, 100352325, DIRECT
 start.io, 100352325, DIRECT
 yahoo.com, 1510636, RESELLER
