@@ -1,6 +1,5 @@
 {
   "hosting": {
-    "public": "public",
-    "site":"haryandi"
+    "public": "public"
   }
 }
