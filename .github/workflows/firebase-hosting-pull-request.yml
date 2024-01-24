@@ -15,3 +15,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.PARCELJOGJA}}'
           projectId: parcel-jogja
+
