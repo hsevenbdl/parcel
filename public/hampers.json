@@ -1,10 +1,11 @@
+
 {
   "status": "Success",
   "ok": [
     {
       "no": 1,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja.png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja.png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": ""
@@ -12,7 +13,7 @@
     {
       "no": 2,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (1).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (1).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -22,7 +23,7 @@
     {
       "no": 3,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (10).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (10).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -32,7 +33,7 @@
     {
       "no": 4,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (2).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (2).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -42,7 +43,7 @@
     {
       "no": 5,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (3).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (3).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -52,7 +53,7 @@
     {
       "no": 6,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (4).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (4).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -62,7 +63,7 @@
     {
       "no": 7,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (5).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (5).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -72,7 +73,7 @@
     {
       "no": 8,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (6).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (6).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -82,7 +83,7 @@
     {
       "no": 9,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (7).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (7).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -92,7 +93,7 @@
     {
       "no": 10,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (8).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (8).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
@@ -102,7 +103,7 @@
     {
       "no": 11,
       "nama": "Hampers Alat Sholat",
-      "gambar": "/assets/img/Hamper Lebaran Jogja (9).png",
+      "gambar": "/assets/img/hampers Lebaran/Hamper Lebaran Jogja (9).png",
       "deskripsi": "",
       "link": "https://s.id/OrderParcel",
       "": {
